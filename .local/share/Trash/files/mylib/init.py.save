@@ -1,0 +1,6 @@
+#ifnder __ SOMECODE__
+#define __SOMECODE__
+
+cvoid print_split(char*str);
+
+#endif

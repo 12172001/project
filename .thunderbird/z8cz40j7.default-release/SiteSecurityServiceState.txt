@@ -1,0 +1,2 @@
+firefox.settings.services.mozilla.com:HSTS	0	18552	1634465896950,1,0,2
+blocklists.settings.services.mozilla.com:HSTS	0	18552	1634466134245,1,0,2
