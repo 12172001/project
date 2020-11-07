@@ -413,19 +413,19 @@
       </footer>
     </body>
 </html>
-{oX4¡Ã      _ä≈_ä≈.B;9Ÿ_ä®       :http://127.0.0.1:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Sat, 17 Oct 2020 05:22:45 GMT
+ï‹¿Ω¡Ã           _¶èaBL ?_¶è\       :http://127.0.0.1:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Sat, 07 Nov 2020 12:13:16 GMT
 Server: WSGIServer/0.2 CPython/3.6.9
 Content-Type: text/html
 X-Frame-Options: DENY
 Content-Length: 16351
 X-Content-Type-Options: nosniff
 Referrer-Policy: same-origin
- original-response-headers Date: Sat, 17 Oct 2020 05:22:45 GMT
+ original-response-headers Date: Sat, 07 Nov 2020 12:13:16 GMT
 Server: WSGIServer/0.2 CPython/3.6.9
 Content-Type: text/html
 X-Frame-Options: DENY
 Content-Length: 16351
 X-Content-Type-Options: nosniff
 Referrer-Policy: same-origin
- ctid 1 uncompressed-len 0 net-response-time-onstart 7623 net-response-time-onstop 25737 predictor::resource-count 4 predictor::http://127.0.0.1:8000/static/admin/css/fonts.css 1,1,0,1048577 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Regular-webfont.woff 1,1,0,1048576 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Bold-webfont.woff 1,1,0,1048576 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Light-webfont.woff 1,1,0,1048576 necko:classified 1   ?ﬂ
+ ctid 1 uncompressed-len 0 predictor::resource-count 4 predictor::http://127.0.0.1:8000/static/admin/css/fonts.css 1,1,0,4096 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Regular-webfont.woff 1,1,0,4096 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Bold-webfont.woff 1,1,0,4096 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Light-webfont.woff 1,1,0,4096   ?ﬂ

@@ -1872,7 +1872,7 @@
     <id>On_Screen_Keyboard_Button_bradan.eu</id>
     <name>On Screen Keyboard Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shows or hides the OSK via top bar button.</p></description>
+    <description><p>Shows or hides the OSK via top bar button. It works with X, not with wayland. Wayland has it&apos;s own technique: swipe the keyboard up from the bottom display edge.</p><p>Source code: https://github.com/Bradan/Gnome-On-Screen-Keyboard-Button</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -2669,7 +2669,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="63"/>
+      <release version="64"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -2845,7 +2845,7 @@
     <id>ShutdownTimer_neumann</id>
     <name>ShutdownTimer</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shutdown your device after a specific time. This extension adds a submenu to the status area.</p><p>Maximum timer value und slider position can be modified in the settings.</p></description>
+    <description><p>Shutdown the device after a specific time.</p><p>Maximum timer value und slider position can be modified in the settings.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -3098,7 +3098,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="4"/>
+      <release version="5"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -3515,7 +3515,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="35"/>
+      <release version="37"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4699,7 +4699,7 @@
     <id>arc-menu_linxgem33.com</id>
     <name>Arc Menu</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>## DEVELOPMENT STOPPED ##</p><p>The new EGO home and maintainer for ArcMenu is here; https://extensions.gnome.org/extension/3628/arcmenu/</p><p>You can read the full reasons why here and whats next for ArcMenu; https://gitlab.com/arcmenu-team/Arc-Menu/-/issues/358</p><p>kind regards LinxGem33 aka Andy C</p></description>
+    <description><p>## DEVELOPMENT STOPPED ##</p><p>Updated message (24/10/2020)</p><p>(New EGO home and maintainer) https://extensions.gnome.org/extension/3628/arcmenu/</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -5782,7 +5782,7 @@
     <id>bottompanel_tmoer93</id>
     <name>BottomPanel</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Moves the GNOME panel to the bottom of the screen</p></description>
+    <description><p>Moves the GNOME panel to the bottom of the screen</p><p>Source here: https://github.com/Thoma5/gnome-shell-extension-bottompanel</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -5805,7 +5805,7 @@
     <id>breakreminder_danielfalk22.gmail.com</id>
     <name>Break Reminder</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Get a reminder to take a break</p><p>https://github.com/danielfalk/gnome3breakreminder/</p><p></p></description>
+    <description><p>Get a reminder to take a break</p><p>Author&apos;s note:  Gnome releases often break extensions.  As I run Ubuntu almost exclusively, I may not be able to test and notice issues until upgrading.  Please file bugs on github if possible.  Contributions are welcome.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -5987,7 +5987,7 @@
     <id>calculator-button_amivaleo</id>
     <name>Calculator Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A button to easily open gnome-calculator.  Credits to extensions.gnome.org/extension/939/display-button/</p></description>
+    <description><p>A button to easily open gnome-calculator.  Credits to extensions.gnome.org/extension/939/display-button/</p><p>v10: 1 - added support for gnome 3.38 2 - added support for flatpak version of gnome-calculator</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -6582,7 +6582,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="21"/>
+      <release version="23"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8016,7 +8016,7 @@
     <id>drop-down-terminal-x_bigbn.pro</id>
     <name>Drop Down Terminal X</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A GNOME Shell drop down terminal with extra feautures.</p><p>▒█▀▀▄ ▒█▀▀▄ ▀▀█▀▀ ▀▄▒▄▀  ▒█░▒█ ▒█░▒█ ░▒█░░ ░▒█░░  ▒█▄▄▀ ▒█▄▄▀ ░▒█░░ ▄▀▒▀▄</p><p>Includes: tabs, multi-monitor, font scaling support; [Focus out] / [Escape pressed] events for hide.</p><p>October 2020 updates: - Gnome 3.38 support This update is already uploaded but it is still under review, you can install latest version from github manually, there are instuction in readme file is available.</p><p>May 2020 updates: - Color schemes </p><p>March 2020 updates: - Gnome 3.36 support - &quot;Open in current directory&quot; option</p><p>February 2020 updates: - Multi monitor enhancements - Workarea of current monitor for maximized mode</p><p>January 2020 updates: - Fixed fullscreen window priority - Keybinding to maximize terminal window; - Keybinding to manually focus terminal window; - Scrolling the volume indicator not affecting terminal;</p><p>November 2019 updates: - Added support for the ~/.ssh/config file. Now you can get quick access to any your ssh host in one click; - Added support for ~/.config/drop-down-terminal-x/shortcuts file Now you can define any action that will become available in a special drop-down list for quick launch. This small improvement can improve your productivity See file format at https://github.com/bigbn/drop-down-terminal-x - Added option to prevent terminal jumps down to the bottom on long command output</p><p>Special thanks to: - Osman Alperen Elhan (https://github.com/oae) - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) - Henry78 (https://github.com/Henry78) - Maxim Toropov (https://github.com/MaxMaxoff) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
+    <description><p>A GNOME Shell drop down terminal with extra feautures.</p><p>▒█▀▀▄ ▒█▀▀▄ ▀▀█▀▀ ▀▄▒▄▀  ▒█░▒█ ▒█░▒█ ░▒█░░ ░▒█░░  ▒█▄▄▀ ▒█▄▄▀ ░▒█░░ ▄▀▒▀▄</p><p>Includes: tabs, multi-monitor, font scaling support; [Focus out] / [Escape pressed] events for hide.</p><p>October 2020 updates: - Gnome 3.38 support   May 2020 updates: - Color schemes </p><p>March 2020 updates: - Gnome 3.36 support - &quot;Open in current directory&quot; option</p><p>February 2020 updates: - Multi monitor enhancements - Workarea of current monitor for maximized mode</p><p>January 2020 updates: - Fixed fullscreen window priority - Keybinding to maximize terminal window; - Keybinding to manually focus terminal window; - Scrolling the volume indicator not affecting terminal;</p><p>November 2019 updates: - Added support for the ~/.ssh/config file. Now you can get quick access to any your ssh host in one click; - Added support for ~/.config/drop-down-terminal-x/shortcuts file Now you can define any action that will become available in a special drop-down list for quick launch. This small improvement can improve your productivity See file format at https://github.com/bigbn/drop-down-terminal-x - Added option to prevent terminal jumps down to the bottom on long command output</p><p>Special thanks to: - Osman Alperen Elhan (https://github.com/oae) - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) - Henry78 (https://github.com/Henry78) - Maxim Toropov (https://github.com/MaxMaxoff) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8336,7 +8336,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="20"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8771,7 +8771,7 @@
     <id>extensions-sync_elhan.io</id>
     <name>Extensions Sync</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Sync all extensions and their configurations across all gnome instances</p></description>
+    <description><p>Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.</p><p>Settings can be synced to following:</p><p>- Github gist - Gitlab snippets - Local file</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -9025,7 +9025,7 @@
     <id>files-view_argonauta.framagit.org</id>
     <name>Files View</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A files view for GNOME Shell.</p><p>This extension displays a “Files” view similar to the Applications view, with the conveniences of a file manager. It is accessed through the combination SUPER + F.</p><p>Features: - Moving the view in directories - Sidebar with places - Search entry with completion and history - Drag and drop - A &quot;tab&quot; for recent files - Another for favorites, either specific to the extension or those of Nautilus - Tag support (Tracker) - Thumbnail display (if Nautilus has already generated them) - File sorting - Numerous internal shortcuts - “read-only” mode, by disabling file manager</p><p>GNOME Shell 3.38 and later are not supported.</p></description>
+    <description><p>A files view for GNOME Shell.</p><p>This extension displays a “Files” view similar to the Applications view, with the conveniences of a file manager. It is accessed through the combination SUPER + F.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -9039,7 +9039,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="9"/>
+      <release version="10"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9310,7 +9310,7 @@
     <id>fq_megh</id>
     <name>Force Quit</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Adds a force quit button which launches xkill. On accidental click, right click to undo or click on the panel. Customize position by tweaking line 27 of extension.js</p></description>
+    <description><p>Adds a force quit button which launches xkill. On accidental click, right click to undo or click on the panel. Customize position by tweaking line 48 of extension.js</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -9540,7 +9540,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="37"/>
+      <release version="35"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -10422,7 +10422,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="14"/>
+      <release version="13"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -12341,7 +12341,7 @@
     <id>keyboard_modifiers_status_sneetsher</id>
     <name>Keyboard Modifiers Status</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shows keyboard modifiers status. It&apos;s much useful when sticky keys are active.</p><p>You can modify it to remove unwanted key indicators.</p><p></p></description>
+    <description><p>Shows the keyboard modifiers status. It&apos;s much useful when accessibility feature - sticky keys is active.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13266,29 +13266,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>mediaplayer_patapon.info</id>
-    <name>Media Player Indicator</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>This extension has been retired. No one has stepped up to take over maintainership, and there have not been any updates in over a year. It should be removed from this site.</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/55/media-player-indicator/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_55_SzehUB7.png</image>
-      </screenshot>
-    </screenshots>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">mediaplayer@patapon.info</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>meneame-search-provider_atareao.es</id>
     <name>Meneame Search Provider</name>
     <summary>GNOME Shell Extension</summary>
@@ -14195,7 +14172,7 @@
     <id>new-mail-indicator_fthx</id>
     <name>New Mail Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your default email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension. Do not disable the notifications of your default email client ! *** It is not a standalone mail checker, you need your email client to be running. *** Please check that the xdg-utils package is installed.</p><p> Email clients supported at the moment are : Thunderbird, Evolution, Geary, Mailspring. Please ask to add the client you need. If you report an error, please provide at least the distribution and the email client you use through the github link.</p></description>
+    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your default email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension.</p><p>1) Do not disable the notifications of your default email client !    2) It is not a standalone mail checker, you need your email client to be running.    3) Please check that the xdg-utils package is installed.    4) Email clients supported at the moment are : Thunderbird, Evolution, Geary, Mailspring.</p><p>Please ask to add the client you need. If you report an error, please provide at least the distribution and the email client you use through the github link.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -14595,7 +14572,7 @@
     <id>nothing-to-say_extensions.gnome.wouter.bolsterl.ee</id>
     <name>Nothing to say</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Unmute the microphone only when you have something to say.</p><p>- microphone icon in the top bar, only visible when recording is active - one-click mute/unmute using the icon - keyboard shortcut to mute/unmute, with push-to-talk - osd notifications for microphone events</p><p>I don&apos;t read comments; see Github instead.</p></description>
+    <description><p>unmute the microphone only when you have something to say.</p><p>- microphone icon in the top bar, only visible when recording is active - one-click mute/unmute using the icon - keyboard shortcut to mute/unmute, with push-to-talk - osd notifications for microphone events</p><p>i don&apos;t read comments; see github instead.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -15242,7 +15219,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="38"/>
+      <release version="39"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16087,7 +16064,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="29"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16492,7 +16469,7 @@
     <id>randomwallpaper_iflow.space</id>
     <name>Random Wallpaper</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Random Wallpapers for Gnome 3 is a gnome-shell extension that fetches a random wallpaper from an online source and sets it as desktop background.</p><p>Features: - Many different online sources with filters:         * Unsplash (https://unsplash.com/)         * Wallhaven (https://alpha.wallhaven.cc/)         * Reddit (https://reddit.com)         * Basically any JSON API/File (Examples in the GitHub Wiki) - History of previous images - Set lock screen image - Automatic renewal (Auto-Fetching)</p></description>
+    <description><p>Fetches a random wallpaper from various online sources and sets it as desktop background.  The desktop background can be updated periodically or manually.</p><p>Features: - Many different online sources with filters - History of previous images - Set lock screen image - Automatic renewal</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -17898,7 +17875,7 @@
     <id>show-desktop-button_amivaleo</id>
     <name>Show Desktop Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>I had the need of a &apos;show-desktop-button&apos;. I found an extension that does exactly what I want, but it was quite old. I tried to update it a little bit and make it work. I&apos;m still learning how to make extensions, so all the credits go to the original author and his collaborators. This is the original extension: extensions.gnome.org/extension/64/show-desktop-button/ I hope you will appreciate this kind of fork and that also the author will appreciate the efforts to keep his work alive!</p></description>
+    <description><p>I had the need of a &apos;show-desktop-button&apos;. I found an extension that does exactly what I want, but it was quite old. I tried to update it a little bit and make it work. I&apos;m still learning how to make extensions, so all the credits go to the original author and his collaborators. This is the original extension: extensions.gnome.org/extension/64/show-desktop-button/ I hope you will appreciate this kind of fork and that also the author will appreciate the efforts to keep his work alive!</p><p>v7: 1 - Added back rough support for setting the indicator position on the panel</p><p>HOW TO SET INDICATOR POSITION ON THE PANEL (only in v7 currently in the queue review):</p><p>1 - gedit ~/.local/share/gnome-shell/extensions/show-desktop-button@amivaleo/extension.js 2 - go to line 10 and edit &apos;right&apos; to &apos;center&apos; or &apos;left&apos; as desired 3 - save, close and logout&amp;amp;amp;login or restart the shell</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -17908,7 +17885,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1194/show-desktop-button/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1194.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1194_tGfVl9Y.png</image>
       </screenshot>
     </screenshots>
     <metadata>
@@ -20906,7 +20883,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="12"/>
+      <release version="14"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21262,7 +21239,7 @@
     <id>webcam-manager_atareao.es</id>
     <name>Webcam manager</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A manager for the webcam. With this extension you can enable or disable the webcam from GNOME Shell. This extension load or unloads the module uvcvideo from the Linux Kernel, to enable or disable the webcam. Simple and easy.</p></description>
+    <description><p>A manager for the webcam. With this extension you can enable or disable the webcam from GNOME Shell. This extension load or unloads the module uvcvideo from the Linux Kernel. To enable or disable the webcam. Simple and easy.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -21272,11 +21249,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1477/webcam-manager/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1477.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1477_EeSSOzO.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="1"/>
+      <release version="3"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -22193,6 +22170,27 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">workspace-switch-wraparound@theychx.org</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>workspace-switcher-popup-thumbnails_sustmidown.centrum.cz</id>
+    <name>Workspace Switcher Popup with Thumbnails</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Show workspace thumbnails when switching between workspaces</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1516/workspace-switcher-popup-with-thumbnails/</url>
+    <releases>
+      <release version="2"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">workspace-switcher-popup-thumbnails@sustmidown.centrum.cz</value>
     </metadata>
   </component>
   <component type="shell-extension">

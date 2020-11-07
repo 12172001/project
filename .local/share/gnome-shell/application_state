@@ -1,21 +1,12 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="10" last-seen="1602874008"/>
-    <application id="gnome-control-center.desktop" open-window-count="0" score="3" last-seen="1602939627"/>
-    <application id="firefox.desktop" open-window-count="0" score="444.5" last-seen="1602938252"/>
-    <application id="file-roller.desktop" open-window-count="0" score="5" last-seen="1602929853"/>
-    <application id="nautilus.desktop" open-window-count="1" score="4" last-seen="1602929867"/>
-    <application id="sublime-text_subl.desktop" open-window-count="0" score="426" last-seen="1602938230"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="17964.5" last-seen="1602937727"/>
-    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1602443518"/>
-    <application id="org.gnome.DejaDup.desktop" open-window-count="0" score="0" last-seen="1602612871"/>
-    <application id="rhythmbox.desktop" open-window-count="0" score="0" last-seen="1602880761"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="383" last-seen="1602937668"/>
-    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2059" last-seen="1602942413"/>
-    <application id="libreoffice-writer.desktop" open-window-count="0" score="1.5" last-seen="1602876846"/>
-    <application id="org.gnome.Software.desktop" open-window-count="0" score="113" last-seen="1602876865"/>
-    <application id="thunderbird.desktop" open-window-count="0" score="1" last-seen="1602929879"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="18117.5" last-seen="1604752050"/>
+    <application id="sublime-text_subl.desktop" open-window-count="0" score="106" last-seen="1604747552"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3613" last-seen="1604752052"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="76" last-seen="1604751864"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="0" last-seen="1604748640"/>
+    <application id="firefox.desktop" open-window-count="1" score="439" last-seen="1604751379"/>
   </context>
 </application-state>

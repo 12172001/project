@@ -247,3 +247,42 @@ cd ..
 sudo apt install git
 git init
 sudo apt install git
+git config --global user.email " aabdykhalykovaa17@gmail.com"
+git config --global user.name 
+git status
+git add
+git add .
+git remote add origin https://github.com/12172001/Django01.git
+git remote add https://github.com/12172001/Django01.git
+git push origin master
+git config --global user.name "Khanisa"
+git remote add origin https://github.com/12172001/Django01.git
+git status
+git checkout -- <locallibrary/locallibrary/catalog/__pycache__/models.cpython-36.pyc>…
+git status
+git add <locallibrary/locallibrary/catalog/__pycache__/models.cpython-36.pyc>…
+Ничего не указано, ничего не добавлено.
+git add .<locallibrary/locallibrary/catalog/__pycache__/models.cpython-36.pyc>…
+git status
+<pre> git remote add origin https://github.com/12172001/Django01.git
+git remote add origin https://github.com/12172001/Django01.git
+cd Django01
+cd debut_project
+cd locallibrary
+ls
+cd locallibrary
+ls
+mkdir models.py
+ls
+cd ..
+ls
+python3 manage.py runserver
+cd Django01
+cs debut_project
+cd debut_project
+cd locallibrary
+python3 manage.py runserver
+git init
+gim config --global user.email "aabdykhalylovaa17@gmail.com"
+git config --global user.email'aabdykhalykovaa17@gmail.com"
+

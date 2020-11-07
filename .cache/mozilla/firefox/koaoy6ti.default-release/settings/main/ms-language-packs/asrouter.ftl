@@ -259,7 +259,7 @@ cfr-doorhanger-doh-secondary-button = Отключить
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = { -brand-short-name } включил для вас экспериментальную функцию Fission (изоляция сайта). Изолируя каждый сайт в отдельный процесс, Fission обеспечивает дополнительный уровень защиты для вас и посещаемых вами веб-сайтов.
+cfr-doorhanger-fission-body-approved = Ваша приватность имеет значение. { -brand-short-name } теперь изолирует веб-сайты друг от друга, помещая их в так называемые «песочницы», так что теперь хакерам станет труднее украсть пароли, данные кредитных карт и другую важную для вас информацию.
 cfr-doorhanger-fission-header = Изоляция сайта
 cfr-doorhanger-fission-primary-button = OK, понятно
     .accesskey = я
@@ -277,6 +277,3 @@ cfr-whatsnew-clear-cookies-image-alt = Иллюстрация заблокиро
 cfr-whatsnew-media-keys-header = Больше средств управления медиа
 cfr-whatsnew-media-keys-body = Начинайте и останавливайте воспроизведение аудио или видео при помощи вашей клавиатуры или наушников, делая удобным контроль воспроизведения из другой вкладки, программы, или даже экрана блокировки компьютера. Кроме того, вы можете переключаться между треками, используя клавиши вперед и назад.
 cfr-whatsnew-media-keys-button = Узнайте как
-
-## External string for cfr-doorhanger-fission-body-approved
-cfr-doorhanger-fission-body-approved = Your privacy matters. { -brand-short-name } now isolates, or sandboxes, websites from each other, which makes it harder for hackers to steal passwords, credit card numbers, and other sensitive information.
