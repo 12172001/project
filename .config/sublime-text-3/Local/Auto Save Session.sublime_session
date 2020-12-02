@@ -1,16 +1,21 @@
 {
 	"folder_history":
 	[
+		"/home/khanisa/django",
+		"/home/khanisa/django/local/local",
+		"/home/khanisa/django/local",
+		"/home/khanisa/django/local/local/catalog/migrations",
+		"/home/khanisa/Django01/debut_project/debut_project",
 		"/home/khanisa/Django01/debut_project",
-		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary",
 		"/home/khanisa/Django01/debut_project/locallibrary",
+		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary",
 		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog",
 		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
 		"/home/khanisa/locallibrary",
 		"/home/khanisa/locallibrary/locallibrary/catalog"
 	],
 	"last_version": 3211,
-	"last_window_id": 16,
+	"last_window_id": 34,
 	"log_indexing": false,
 	"settings":
 	{
@@ -54,6 +59,56 @@
 			},
 			"file_history":
 			[
+				"/home/khanisa/django/local/local/catalog/tests/test_views.py",
+				"/home/khanisa/django/local/local/catalog/tests/test_models.py",
+				"/home/khanisa/django/local/local/catalog/tests/test_forms.py",
+				"/home/khanisa/django/local/local/catalog/tests/__init__.py",
+				"/home/khanisa/django/local/local/catalog/templates/index.html",
+				"/home/khanisa/django/local/local/catalog/templates/base_generic.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_user.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_all.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_renew_librarian.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_list.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_form.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_detail.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_confirm_delete.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_list.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_form.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_detail.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_confirm_delete.html",
+				"/home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py .db import migrations, models",
+				"/home/khanisa/django/local/local/catalog/migrations/0021_auto_20171229_1056.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0001_initial.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0002_auto_20160921_1401.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0004_auto_20160921_1422.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0003_auto_20160921_1420.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0005_auto_20160921_1433.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0006_auto_20160921_1439.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0007_auto_20160921_1444.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0008_auto_20160921_1511.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0009_remove_bookinstance_summary.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0010_auto_20160921_1527.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0011_auto_20160922_1029.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0012_bookinstance_date_acquired.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0013_auto_20160926_1901.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0014_remove_bookinstance_date_acquired.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0015_auto_20160927_1808.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0016_auto_20160927_1947.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0017_language.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0018_book_language.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0019_bookinstance_borrower.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0020_auto_20161012_1044.py",
+				"/home/khanisa/django/local/local/catalog/views.py",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/base_generic.html",
+				"/home/khanisa/django/local/local/catalog/static/css/styles.css",
+				"/home/khanisa/django/local/local/catalog/static/css/styles.css.",
+				"/home/khanisa/django/local/local/catalog/admin.py",
+				"/home/khanisa/django/local/local/catalog/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/migrations/__init__.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/apps.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py",
@@ -96,7 +151,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 38.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -144,7 +199,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 154.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -164,31 +219,35 @@
 			"buffers":
 			[
 				{
-					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+					"contents": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+					"file": "/home/khanisa/django/local/local/local/untitled",
+					"file_size": 21,
+					"file_write_time": 132509748825404372,
 					"settings":
 					{
-						"buffer_size": 2195,
-						"encoding": "UTF-8",
+						"buffer_size": 21,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "from django.urls import path\n\nfrom . import views\n\nurlpatterns = [\n    path('', views.index, name='index'),\n    path('books/', views.BookListView.as_view(), name='books'),\n    path('book/<int:pk>', views.BookDetailView.as_view(), name='book-detail'),\n    path('authors/', views.AuthorListView.as_view(), name='authors'),\n    path('author/<int:pk>',\n         views.AuthorDetailView.as_view(), name='author-detail'),\n]\n\n\nurlpatterns += [\n    path('mybooks/', views.LoanedBooksByUserListView.as_view(), name='my-borrowed'),\n    path(r'borrowed/', views.LoanedBooksAllListView.as_view(), name='all-borrowed'),  # Added for challenge\n]\n\n\n# Add URLConf for librarian to renew a book.\nurlpatterns += [\n    path('book/<uuid:pk>/renew/', views.renew_book_librarian, name='renew-book-librarian'),\n]\n\n\n# Add URLConf to create, update, and delete authors\nurlpatterns += [\n    path('author/create/', views.AuthorCreate.as_view(), name='author_create'),\n    path('author/<int:pk>/update/', views.AuthorUpdate.as_view(), name='author_update'),\n    path('author/<int:pk>/delete/', views.AuthorDelete.as_view(), name='author_delete'),\n]\n\n# Add URLConf to create, update, and delete books\nurlpatterns += [\n    path('book/create/', views.BookCreate.as_view(), name='book_create'),\n    path('book/<int:pk>/update/', views.BookUpdate.as_view(), name='book_update'),\n    path('book/<int:pk>/delete/', views.BookDelete.as_view(), name='book_delete'),\n]",
-					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
-					"file_size": 1429,
-					"file_write_time": 132492212533977902,
-					"settings":
-					{
-						"buffer_size": 1429,
-						"line_ending": "Unix"
-					}
-				},
-				{
+					"contents": "\"\"\"test_project URL Configuration\nThe `urlpatterns` list routes URLs to views. For more information please see:\n    https://docs.djangoproject.com/en/3.1/topics/http/urls/\nExamples:\nFunction views\n    1. Add an import:  from my_app import views\n    2. Add a URL to urlpatterns:  path('', views.home, name='home')\nClass-based views\n    1. Add an import:  from other_app.views import Home\n    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')\nIncluding another URLconf\n    1. Import the include() function: from django.urls import include, path\n    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))\n\"\"\"\nfrom django.contrib import admin\nfrom django.urls import path\n\nurlpatterns = [\n    path('admin/', admin.site.urls),\n]\nurlpatterns += [\n    path('catalog/', ' catalog.urls')\n]",
 					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+					"file_size": 809,
+					"file_write_time": 132503782216181737,
 					"settings":
 					{
-						"buffer_size": 752,
-						"encoding": "UTF-8",
+						"buffer_size": 809,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "from django.db import models\n\n# Create your models here.\n\nfrom django.urls import reverse  # To generate URLS by reversing URL patterns\n\n\nclass Genre(models.Model):\n    \"\"\"Model representing a book genre (e.g. Science Fiction, Non Fiction).\"\"\"\n    name = models.CharField(\n        max_length=200,\n        help_text=\"Enter a book genre (e.g. Science Fiction, French Poetry etc.)\"\n        )\n\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"\n        return self.name\n\n\nclass Language(models.Model):\n    \"\"\"Model representing a Language (e.g. English, French, Japanese, etc.)\"\"\"\n    name = models.CharField(max_length=200,\n                            help_text=\"Enter the book's natural language (e.g. English, French, Japanese etc.)\")\n\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"\n        return self.name\n\n\nclass Book(models.Model):\n    \"\"\"Model representing a book (but not a specific copy of a book).\"\"\"\n    title = models.CharField(max_length=200)\n    author = models.ForeignKey('Author', on_delete=models.SET_NULL, null=True)\n    # Foreign Key used because book can only have one author, but authors can have multiple books\n    # Author as a string rather than object because it hasn't been declared yet in file.\n    summary = models.TextField(max_length=1000, help_text=\"Enter a brief description of the book\")\n    isbn = models.CharField('ISBN', max_length=13,\n                            help_text='13 Character <a href=\"https://www.isbn-international.org/content/what-isbn'\n                                      '\">ISBN number</a>')\n    genre = models.ManyToManyField(Genre, help_text=\"Select a genre for this book\")\n    # ManyToManyField used because a genre can contain many books and a Book can cover many genres.\n    # Genre class has already been defined so we can specify the object above.\n    language = models.ForeignKey('Language', on_delete=models.SET_NULL, null=True)\n    \n    class Meta:\n        ordering = ['title', 'author']\n\n    def display_genre(self):\n        \"\"\"Creates a string for the Genre. This is required to display genre in Admin.\"\"\"\n        return ', '.join([genre.name for genre in self.genre.all()[:3]])\n\n    display_genre.short_description = 'Genre'\n\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular book instance.\"\"\"\n        return reverse('book-detail', args=[str(self.id)])\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return self.title\n\n\nimport uuid  # Required for unique book instances\nfrom datetime import date\n\nfrom django.contrib.auth.models import User  # Required to assign User as a borrower\n\n\nclass BookInstance(models.Model):\n    \"\"\"Model representing a specific copy of a book (i.e. that can be borrowed from the library).\"\"\"\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4,\n                          help_text=\"Unique ID for this particular book across whole library\")\n    book = models.ForeignKey('Book', on_delete=models.SET_NULL, null=True)\n    imprint = models.CharField(max_length=200)\n    due_back = models.DateField(null=True, blank=True)\n    borrower = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)\n\n    @property\n    def is_overdue(self):\n        if self.due_back and date.today() > self.due_back:\n            return True\n        return False\n\n    LOAN_STATUS = (\n        ('d', 'Maintenance'),\n        ('o', 'On loan'),\n        ('a', 'Available'),\n        ('r', 'Reserved'),\n    )\n\n    status = models.CharField(\n        max_length=1,\n        choices=LOAN_STATUS,\n        blank=True,\n        default='d',\n        help_text='Book availability')\n\n    class Meta:\n        ordering = ['due_back']\n        permissions = ((\"can_mark_returned\", \"Set book as returned\"),)\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return '{0} ({1})'.format(self.id, self.book.title)\n\n\nclass Author(models.Model):\n    \"\"\"Model representing an author.\"\"\"\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    date_of_birth = models.DateField(null=True, blank=True)\n    date_of_death = models.DateField('died', null=True, blank=True)\n\n    class Meta:\n        ordering = ['last_name', 'first_name']\n\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular author instance.\"\"\"\n        return reverse('author-detail', args=[str(self.id)])\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return '{0}, {1}'.format(self.last_name, self.first_name)",
+					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py",
+					"file_size": 4657,
+					"file_write_time": 132492194925833897,
+					"settings":
+					{
+						"buffer_size": 4657,
 						"line_ending": "Unix"
 					}
 				}
@@ -225,12 +284,14 @@
 			},
 			"expanded_folders":
 			[
-				"/home/khanisa/Django01/debut_project/locallibrary",
-				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary",
-				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary"
+				"/home/khanisa/Django01/debut_project/locallibrary"
 			],
 			"file_history":
 			[
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/migrations/__init__.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/apps.py",
 				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py",
@@ -281,26 +342,25 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+							"file": "/home/khanisa/django/local/local/local/untitled",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2195,
+								"buffer_size": 21,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2195,
-										2195
+										21,
+										21
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -311,26 +371,24 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
+							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1429,
+								"buffer_size": 809,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										37,
-										37
+										806,
+										806
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -341,24 +399,26 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 752,
+								"buffer_size": 4657,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										752,
-										752
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -410,7 +470,7 @@
 				"height": 30.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,95,55,735,535,800,600",
+			"position": "0,1,1,0,0,0,0,0,0,800,600",
 			"project": "",
 			"replace":
 			{
@@ -452,12 +512,368 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 154.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 12,
+			"window_id": 19,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/khanisa/django/local/local/local/urls.py",
+					"settings":
+					{
+						"buffer_size": 1651,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khanisa/django/local/local/local/wsgi.py",
+					"settings":
+					{
+						"buffer_size": 387,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khanisa/django/local/local/manage.py",
+					"settings":
+					{
+						"buffer_size": 661,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/khanisa/django",
+				"/home/khanisa/django/local",
+				"/home/khanisa/django/local/local",
+				"/home/khanisa/django/local/local/catalog",
+				"/home/khanisa/django/local/local/catalog/tests"
+			],
+			"file_history":
+			[
+				"/home/khanisa/django/local/local/catalog/tests/test_views.py",
+				"/home/khanisa/django/local/local/catalog/tests/test_models.py",
+				"/home/khanisa/django/local/local/catalog/tests/test_forms.py",
+				"/home/khanisa/django/local/local/catalog/tests/__init__.py",
+				"/home/khanisa/django/local/local/catalog/templates/index.html",
+				"/home/khanisa/django/local/local/catalog/templates/base_generic.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_user.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_all.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_renew_librarian.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_list.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_form.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_detail.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/book_confirm_delete.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_list.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_form.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_detail.html",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/author_confirm_delete.html",
+				"/home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py .db import migrations, models",
+				"/home/khanisa/django/local/local/catalog/migrations/0021_auto_20171229_1056.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0001_initial.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0002_auto_20160921_1401.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0004_auto_20160921_1422.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0003_auto_20160921_1420.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0005_auto_20160921_1433.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0006_auto_20160921_1439.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0007_auto_20160921_1444.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0008_auto_20160921_1511.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0009_remove_bookinstance_summary.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0010_auto_20160921_1527.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0011_auto_20160922_1029.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0012_bookinstance_date_acquired.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0013_auto_20160926_1901.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0014_remove_bookinstance_date_acquired.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0015_auto_20160927_1808.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0016_auto_20160927_1947.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0017_language.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0018_book_language.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0019_bookinstance_borrower.py",
+				"/home/khanisa/django/local/local/catalog/migrations/0020_auto_20161012_1044.py",
+				"/home/khanisa/django/local/local/catalog/views.py",
+				"/home/khanisa/django/local/local/catalog/templates/catalog/base_generic.html",
+				"/home/khanisa/django/local/local/catalog/static/css/styles.css",
+				"/home/khanisa/django/local/local/catalog/static/css/styles.css.",
+				"/home/khanisa/django/local/local/catalog/admin.py",
+				"/home/khanisa/django/local/local/catalog/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/migrations/__init__.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/apps.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/tests.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/khanisa/django"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/khanisa/django/local/local/local/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1651,
+										1651
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 603.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/khanisa/django/local/local/local/wsgi.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 387,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/khanisa/django/local/local/manage.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 661,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,117,27,757,507,800,600",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 154.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 34,
 			"workspace_name": ""
 		}
 	],

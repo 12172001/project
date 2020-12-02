@@ -964,13 +964,13 @@ table#change-history tbody th {
 .popup #header {
     padding: 10px 20px;
 }
-ú6ΩŒb      _¶èy_¶èyBM∞K_©«M   0    :http://127.0.0.1:8000/static/admin/css/base.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Sat, 07 Nov 2020 11:24:36 GMT
-Server: WSGIServer/0.2 CPython/3.6.9
+*•8nŒb      	_∆8_∆8BcG2_«K∆   0    :http://127.0.0.1:8000/static/admin/css/base.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
 Content-Type: text/css
 Content-Length: 16307
 Content-Disposition: inline; filename="base.css"
 Last-Modified: Tue, 13 Oct 2020 17:22:57 GMT
+Date: Fri, 27 Nov 2020 19:54:33 GMT
+Server: WSGIServer/0.2 CPython/3.6.9
  original-response-headers Date: Sat, 07 Nov 2020 11:24:36 GMT
 Server: WSGIServer/0.2 CPython/3.6.9
 Content-Type: text/css

@@ -311,12 +311,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary" added="2020-10-16T19:45:24Z" modified="2020-11-07T09:49:14Z" visited="2020-10-16T19:45:25Z">
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary" added="2020-10-16T19:45:24Z" modified="2020-11-20T20:25:48Z" visited="2020-10-16T19:45:25Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-07T09:49:14Z" count="12"/>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-20T20:25:48Z" count="16"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -374,12 +374,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary" added="2020-10-24T04:12:41Z" modified="2020-11-07T10:40:34Z" visited="2020-10-24T04:12:42Z">
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary" added="2020-10-24T04:12:41Z" modified="2020-11-26T19:14:10Z" visited="2020-10-24T04:12:42Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-07T10:40:34Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-26T19:14:10Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -394,12 +394,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/khanisa/Django01/debut_project/debut_project" added="2020-10-24T05:57:26Z" modified="2020-10-24T05:57:26Z" visited="2020-10-24T05:57:26Z">
+  <bookmark href="file:///home/khanisa/Django01/debut_project/debut_project" added="2020-10-24T05:57:26Z" modified="2020-11-27T17:53:51Z" visited="2020-10-24T05:57:26Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-10-24T05:57:26Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-27T17:53:51Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -417,12 +417,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/khanisa/Django01/debut_project" added="2020-11-07T11:08:34Z" modified="2020-11-07T11:08:34Z" visited="2020-11-07T11:08:34Z">
+  <bookmark href="file:///home/khanisa/Django01/debut_project" added="2020-11-07T11:08:34Z" modified="2020-11-27T16:58:37Z" visited="2020-11-07T11:08:34Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-07T11:08:34Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-27T16:58:37Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -436,6 +436,605 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-07T12:24:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary/db.sqlite3" added="2020-11-20T16:28:09Z" modified="2020-11-20T16:28:09Z" visited="2020-11-20T16:28:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-20T16:28:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py" added="2020-11-20T17:29:39Z" modified="2020-11-20T17:29:39Z" visited="2020-11-20T17:29:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-20T17:29:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/wsgi.py" added="2020-11-20T18:19:17Z" modified="2020-11-20T18:19:17Z" visited="2020-11-20T18:19:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-20T18:19:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py" added="2020-11-20T18:22:20Z" modified="2020-11-20T18:22:20Z" visited="2020-11-20T18:22:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-20T18:22:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc" added="2020-11-20T20:19:04Z" modified="2020-11-20T20:19:04Z" visited="2020-11-20T20:19:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-python-bytecode"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-20T20:19:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django" added="2020-11-27T18:00:19Z" modified="2020-11-29T17:57:40Z" visited="2020-11-27T18:00:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-29T17:57:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local" added="2020-11-27T18:09:43Z" modified="2020-11-28T04:16:36Z" visited="2020-11-27T18:09:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-28T04:16:36Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/local/untitled" added="2020-11-27T18:21:22Z" modified="2020-11-27T18:21:22Z" visited="2020-11-27T18:21:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T18:21:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/urls.py" added="2020-11-27T18:24:15Z" modified="2020-11-27T18:24:15Z" visited="2020-11-27T18:24:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T18:24:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local" added="2020-11-27T18:36:07Z" modified="2020-11-28T07:58:02Z" visited="2020-11-27T18:36:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-28T07:58:02Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///loacllibrary/loacllibrary/settings.py" added="2020-11-27T18:40:11Z" modified="2020-11-27T18:50:19Z" visited="2020-11-27T18:40:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-27T18:50:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/local/settings.py" added="2020-11-27T18:45:07Z" modified="2020-11-27T18:45:07Z" visited="2020-11-27T18:45:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-27T18:45:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/admin.py" added="2020-11-27T19:41:10Z" modified="2020-11-27T19:41:10Z" visited="2020-11-27T19:41:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T19:41:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0002_auto_20160921_1401.py" added="2020-11-27T20:59:17Z" modified="2020-11-27T20:59:17Z" visited="2020-11-27T20:59:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T20:59:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/forms.py" added="2020-11-27T21:10:26Z" modified="2020-11-27T21:10:26Z" visited="2020-11-27T21:10:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:10:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations" added="2020-11-27T21:32:03Z" modified="2020-11-27T21:32:03Z" visited="2020-11-27T21:32:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U&apos;" modified="2020-11-27T21:32:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0003_auto_20160921_1420.py" added="2020-11-27T21:35:07Z" modified="2020-11-27T21:35:07Z" visited="2020-11-27T21:35:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:35:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0004_auto_20160921_1422.py" added="2020-11-27T21:36:27Z" modified="2020-11-27T21:36:27Z" visited="2020-11-27T21:36:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:36:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0005_auto_20160921_1433.py" added="2020-11-27T21:41:55Z" modified="2020-11-27T21:41:55Z" visited="2020-11-27T21:41:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:41:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0006_auto_20160921_1439.py" added="2020-11-27T21:43:05Z" modified="2020-11-28T09:04:29Z" visited="2020-11-27T21:43:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:43:05Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-11-28T09:04:29Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0007_auto_20160921_1444.py" added="2020-11-27T21:44:28Z" modified="2020-11-27T21:44:28Z" visited="2020-11-27T21:44:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:44:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0008_auto_20160921_1511.py" added="2020-11-27T21:46:04Z" modified="2020-11-27T21:46:04Z" visited="2020-11-27T21:46:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:46:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0009_remove_bookinstance_summary.py" added="2020-11-27T21:48:36Z" modified="2020-11-27T21:48:36Z" visited="2020-11-27T21:48:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-27T21:48:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/base_generic.html" added="2020-11-28T04:37:00Z" modified="2020-11-28T04:37:00Z" visited="2020-11-28T04:37:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T04:37:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/static/css/styles.css." added="2020-11-28T04:43:44Z" modified="2020-11-28T04:43:44Z" visited="2020-11-28T04:43:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T04:43:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/static/css/styles.css" added="2020-11-28T04:44:22Z" modified="2020-11-28T04:44:22Z" visited="2020-11-28T04:44:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T04:44:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0010_auto_20160921_1527.py" added="2020-11-28T04:58:10Z" modified="2020-11-28T04:58:10Z" visited="2020-11-28T04:58:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T04:58:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0011_auto_20160922_1029.py" added="2020-11-28T08:00:36Z" modified="2020-11-28T08:00:36Z" visited="2020-11-28T08:00:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:00:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0012_bookinstance_date_acquired.py" added="2020-11-28T08:02:39Z" modified="2020-11-28T08:02:39Z" visited="2020-11-28T08:02:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:02:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0013_auto_20160926_1901.py" added="2020-11-28T08:03:37Z" modified="2020-11-28T08:03:37Z" visited="2020-11-28T08:03:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:03:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0014_remove_bookinstance_date_acquired.py" added="2020-11-28T08:04:25Z" modified="2020-11-28T08:04:25Z" visited="2020-11-28T08:04:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:04:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0015_auto_20160927_1808.py" added="2020-11-28T08:05:14Z" modified="2020-11-28T08:05:14Z" visited="2020-11-28T08:05:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:05:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0016_auto_20160927_1947.py" added="2020-11-28T08:06:04Z" modified="2020-11-28T08:06:04Z" visited="2020-11-28T08:06:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:06:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0017_language.py" added="2020-11-28T08:06:47Z" modified="2020-11-28T08:06:47Z" visited="2020-11-28T08:06:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:06:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0018_book_language.py" added="2020-11-28T08:07:50Z" modified="2020-11-28T08:07:50Z" visited="2020-11-28T08:07:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:07:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0019_bookinstance_borrower.py" added="2020-11-28T08:08:50Z" modified="2020-11-28T08:08:50Z" visited="2020-11-28T08:08:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:08:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0020_auto_20161012_1044.py" added="2020-11-28T08:09:53Z" modified="2020-11-28T08:09:53Z" visited="2020-11-28T08:09:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:09:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0021_auto_20171229_1056.py" added="2020-11-28T08:13:56Z" modified="2020-11-28T08:13:56Z" visited="2020-11-28T08:13:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:13:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py%20.db%20import%20migrations,%20models" added="2020-11-28T08:14:57Z" modified="2020-11-28T08:14:57Z" visited="2020-11-28T08:14:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:14:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/migrations/0022_auto_20181028_1731.py" added="2020-11-28T08:16:02Z" modified="2020-11-28T08:16:02Z" visited="2020-11-28T08:16:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:16:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/author_confirm_delete.html" added="2020-11-28T08:21:39Z" modified="2020-11-28T08:21:39Z" visited="2020-11-28T08:21:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:21:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/author_detail.html" added="2020-11-28T08:22:35Z" modified="2020-11-28T08:22:35Z" visited="2020-11-28T08:22:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:22:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/author_form.html" added="2020-11-28T08:23:16Z" modified="2020-11-28T08:23:16Z" visited="2020-11-28T08:23:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:23:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/author_list.html" added="2020-11-28T08:24:10Z" modified="2020-11-28T08:24:10Z" visited="2020-11-28T08:24:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:24:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/book_confirm_delete.html" added="2020-11-28T08:25:20Z" modified="2020-11-28T08:25:20Z" visited="2020-11-28T08:25:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:25:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/book_detail.html" added="2020-11-28T08:26:29Z" modified="2020-11-28T08:26:29Z" visited="2020-11-28T08:26:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:26:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/book_form.html" added="2020-11-28T08:27:30Z" modified="2020-11-28T08:27:30Z" visited="2020-11-28T08:27:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:27:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/book_list.html" added="2020-11-28T08:29:32Z" modified="2020-11-28T08:29:32Z" visited="2020-11-28T08:29:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:29:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/book_renew_librarian.html" added="2020-11-28T08:30:52Z" modified="2020-11-28T08:30:52Z" visited="2020-11-28T08:30:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:30:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_all.html" added="2020-11-28T08:31:36Z" modified="2020-11-28T08:31:36Z" visited="2020-11-28T08:31:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:31:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/catalog/bookinstance_list_borrowed_user.html" added="2020-11-28T08:32:17Z" modified="2020-11-28T08:32:17Z" visited="2020-11-28T08:32:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:32:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/base_generic.html" added="2020-11-28T08:33:50Z" modified="2020-11-28T08:33:50Z" visited="2020-11-28T08:33:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:33:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/templates/index.html" added="2020-11-28T08:35:04Z" modified="2020-11-28T08:35:04Z" visited="2020-11-28T08:35:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:35:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/tests/__init__.py" added="2020-11-28T08:38:30Z" modified="2020-11-28T08:38:30Z" visited="2020-11-28T08:38:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:38:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/tests/test_forms.py" added="2020-11-28T08:40:25Z" modified="2020-11-28T08:40:25Z" visited="2020-11-28T08:40:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:40:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/tests/test_models.py" added="2020-11-28T08:41:47Z" modified="2020-11-28T08:41:47Z" visited="2020-11-28T08:41:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:41:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/django/local/local/catalog/tests/test_views.py" added="2020-11-28T08:43:49Z" modified="2020-11-28T08:43:49Z" visited="2020-11-28T08:43:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-11-28T08:43:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/khanisa/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202020-11-30%2017-01-50.png" added="2020-11-30T11:01:52Z" modified="2020-11-30T11:01:52Z" visited="2020-11-30T11:01:52.497509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-30T11:01:52Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

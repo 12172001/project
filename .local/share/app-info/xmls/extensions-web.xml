@@ -1225,7 +1225,7 @@
     <id>HijriCalendar_oxygenws.com</id>
     <name>Hijri Calendar</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shows Hijri date in the top panel.</p><p>Support @ https://www.paypal.me/omidmr/</p></description>
+    <description><p>Shows Hijri date in the top panel.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -1239,7 +1239,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="9"/>
+      <release version="10"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1505,7 +1505,7 @@
     <id>LogOutButton_kyle.aims.ac.za</id>
     <name>Log Out Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Add log-out button to the action tray</p></description>
+    <description><p>Add log-out button to the action tray. Gnome Shell &gt;=3.35 is not supported. The logout button has been moved in recent Gnome Shell versions to be with the other buttons.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -2743,6 +2743,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1144.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="6"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -3501,7 +3504,7 @@
     <id>Vitals_CoreCoding.com</id>
     <name>Vitals</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A glimpse into your computer&apos;s temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. This is a one stop shop to monitor all of your vital sensors. Uses asynchronous polling to provide a smooth user experience. Feature requests or bugs? Please use GitHub.</p></description>
+    <description><p>A glimpse into your computer&apos;s temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. This is a one stop shop to monitor all of your vital sensors. Uses asynchronous polling to provide a smooth user experience. Feature requests or bugs? Please use GitHub.</p><p>Broken after upgrade? See https://github.com/corecoding/Vitals/wiki/Broken-after-upgrade</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -3515,7 +3518,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="37"/>
+      <release version="38"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4699,7 +4702,7 @@
     <id>arc-menu_linxgem33.com</id>
     <name>Arc Menu</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>## DEVELOPMENT STOPPED ##</p><p>Updated message (24/10/2020)</p><p>(New EGO home and maintainer) https://extensions.gnome.org/extension/3628/arcmenu/</p></description>
+    <description><p>## UNMAINTAINED ##</p><p>Updated message (13/11/2020)</p><p>(New EGO home and maintainer) * https://extensions.gnome.org/extension/3628/arcmenu/</p><p>(Previous original project and maintainer EGO and GitLab locations) * https://extensions.gnome.org/extension/1228/arc-menu/ * https://gitlab.com/arcmenu-team/Arc-Menu</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -5590,7 +5593,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="52"/>
+      <release version="53"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6510,7 +6513,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="43"/>
+      <release version="44"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6966,7 +6969,7 @@
     <id>dejadup-backup_fthx</id>
     <name>Déjà Dup Backup Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A button to easily, manually and directly backup, following the Déjà Dup backup settings. It simply runs &apos;deja-dup --backup&apos; and shows the Déjà Dup window during backup.  Credit to extensions.gnome.org/extension/877/empathy-button/</p></description>
+    <description><p>Button that directly starts Déjà Dup backup, following Déjà Dup backup settings.</p><p> It simply runs &apos;deja-dup --backup&apos; and shows Déjà Dup window during backup.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -6974,6 +6977,11 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/955/deja-dup-backup-button/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_955_yXlmuvH.png</image>
+      </screenshot>
+    </screenshots>
     <releases>
       <release version="2"/>
     </releases>
@@ -7575,7 +7583,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1447/disk-space-usage/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1447.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1447_ZH8tQKK.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -11048,7 +11056,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="22"/>
+      <release version="23"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -12860,7 +12868,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="39"/>
+      <release version="40"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14728,7 +14736,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="20"/>
+      <release version="21"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -17875,7 +17883,7 @@
     <id>show-desktop-button_amivaleo</id>
     <name>Show Desktop Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>I had the need of a &apos;show-desktop-button&apos;. I found an extension that does exactly what I want, but it was quite old. I tried to update it a little bit and make it work. I&apos;m still learning how to make extensions, so all the credits go to the original author and his collaborators. This is the original extension: extensions.gnome.org/extension/64/show-desktop-button/ I hope you will appreciate this kind of fork and that also the author will appreciate the efforts to keep his work alive!</p><p>v7: 1 - Added back rough support for setting the indicator position on the panel</p><p>HOW TO SET INDICATOR POSITION ON THE PANEL (only in v7 currently in the queue review):</p><p>1 - gedit ~/.local/share/gnome-shell/extensions/show-desktop-button@amivaleo/extension.js 2 - go to line 10 and edit &apos;right&apos; to &apos;center&apos; or &apos;left&apos; as desired 3 - save, close and logout&amp;amp;amp;login or restart the shell</p></description>
+    <description><p>Minimize/unminimize all open windows with a single click.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -18235,7 +18243,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="20"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18691,7 +18699,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1422/stocks-extension/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1422_N6BR6rW.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1422_03UJdQW.png</image>
       </screenshot>
     </screenshots>
     <metadata>
@@ -18972,7 +18980,7 @@
     <id>synaptic-button_fthx</id>
     <name>Synaptic Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A button to easily access Synaptic Package Manager.  Credit to extensions.gnome.org/extension/877/empathy-button/</p></description>
+    <description><p>Button that directly starts Synaptic package manager.</p><p> For snap management without Snap Store, consider Snap Manager extension.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -18982,7 +18990,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/938/synaptic-button/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_938_M3vC4yZ.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_938_3ucLjxN.png</image>
       </screenshot>
     </screenshots>
     <metadata>
@@ -20295,7 +20303,7 @@
     <id>transparent-window_pbxqdown.github.com</id>
     <name>Transparent Window</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Change the opacity of windows by compiz-style shortcut: modifier key(Alt default) + mouse scroll. You can customize hotkey in Preference page if Alt key doesn&apos;t work. Wayland is not supported yet due to its incompatibility with KeyMap/GDKDisplay API in GDK3. Try Xorg instead if you don&apos;t mind switching to an old but more stable display server.</p></description>
+    <description><p>Change the opacity of windows by compiz-style shortcut Alt+scroll. You can customize hotkey in Preference page if Alt key doesn&apos;t work.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -21349,32 +21357,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>wifisignalstrength_tomin.site</id>
-    <name>Wifi Signal Strength Monitor</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Displays Wifi Signal Strength and Speed on the panel</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/1342/wifi-signal-strenght-monitor/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1342.png</image>
-      </screenshot>
-    </screenshots>
-    <releases>
-      <release version="3"/>
-    </releases>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">wifisignalstrength@tomin.site</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>wikidata-search-provider_bahodir.mansurov.org</id>
     <name>Wikidata Search Provider</name>
     <summary>GNOME Shell Extension</summary>
@@ -21678,6 +21660,32 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">window-title-in-status-bar@ienzam.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>window-title-in-topbar_fthx</id>
+    <name>Window Title In Topbar</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Puts the focused window title in the top bar.</p><p> Just the title, nothing else ! It can be used with the integrated menu option from GNOME Tweaks : menu inside application, window title in the topbar.</p><p> Forked from https://extensions.gnome.org/extension/1496/focused-window-indicator/ that does now include some other features.</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1517/window-title-in-topbar/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1517_LlwWJnM.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="1"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">window-title-in-topbar@fthx</value>
     </metadata>
   </component>
   <component type="shell-extension">

@@ -286,3 +286,38 @@ git init
 gim config --global user.email "aabdykhalylovaa17@gmail.com"
 git config --global user.email'aabdykhalykovaa17@gmail.com"
 
+cd Django01
+cd debut_project
+cd locallibrary
+python3 manage.py createsuperuser
+python3 manage.py migrate
+cd ..
+python3 manage.py createsuperuser
+cd locallibrary
+python3 manage.py createsuperuser
+mkdir locallibrary
+cd locallibrary
+django-admin startproject
+cd Django01
+cd debut_project
+cd locallibrray
+cd locallibrary
+ls
+python3 manage.py createsuperuser
+python3 manage.py runserver
+mkdir locallibrary
+cd locallibrary
+django-admin startproject
+cd locallibrary
+django-admin startproject locallibrary
+ls
+django-admin startproject locallibrary
+cd ..
+python3 manage.py migrate
+python3 manage.py makemigrations
+python3 manage.py createsuperuser
+cd django
+cd local
+cd ..
+git init
+git add .

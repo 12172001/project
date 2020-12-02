@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="18117.5" last-seen="1604752050"/>
-    <application id="sublime-text_subl.desktop" open-window-count="0" score="106" last-seen="1604747552"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3613" last-seen="1604752052"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="76" last-seen="1604751864"/>
-    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="thunderbird.desktop" open-window-count="0" score="0" last-seen="1604748640"/>
-    <application id="firefox.desktop" open-window-count="1" score="439" last-seen="1604751379"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="19287.5" last-seen="1606826066"/>
+    <application id="firefox.desktop" open-window-count="0" score="1714" last-seen="1606826028"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="473" last-seen="1606554274"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="15336" last-seen="1606924409"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1606497803"/>
+    <application id="sublime-text_subl.desktop" open-window-count="0" score="2345" last-seen="1606826073"/>
   </context>
 </application-state>

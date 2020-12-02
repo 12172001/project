@@ -1,3 +1,4 @@
 [Added Associations]
 inode/directory=sublime-text_subl.desktop;org.gnome.Nautilus.desktop;nautilus-folder-handler.desktop;
 text/x-python=sublime-text_subl.desktop;
+application/x-python-bytecode=sublime-text_subl.desktop;

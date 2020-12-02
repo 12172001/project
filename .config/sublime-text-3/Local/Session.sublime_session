@@ -1,13 +1,18 @@
 {
 	"folder_history":
 	[
+		"/home/khanisa/django",
+		"/home/khanisa/Django01/debut_project/debut_project",
+		"/home/khanisa/Django01/debut_project",
 		"/home/khanisa/Django01/debut_project/locallibrary",
+		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary",
+		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog",
 		"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
 		"/home/khanisa/locallibrary",
 		"/home/khanisa/locallibrary/locallibrary/catalog"
 	],
 	"last_version": 3211,
-	"last_window_id": 8,
+	"last_window_id": 23,
 	"log_indexing": false,
 	"settings":
 	{
@@ -51,6 +56,15 @@
 			},
 			"file_history":
 			[
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/migrations/__init__.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/apps.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/tests.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py"
 			],
 			"find":
 			{
@@ -95,6 +109,10 @@
 			{
 				"height": 0.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
@@ -132,7 +150,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 154.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -151,6 +169,37 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+					"settings":
+					{
+						"buffer_size": 21,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\"\"\"test_project URL Configuration\nThe `urlpatterns` list routes URLs to views. For more information please see:\n    https://docs.djangoproject.com/en/3.1/topics/http/urls/\nExamples:\nFunction views\n    1. Add an import:  from my_app import views\n    2. Add a URL to urlpatterns:  path('', views.home, name='home')\nClass-based views\n    1. Add an import:  from other_app.views import Home\n    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')\nIncluding another URLconf\n    1. Import the include() function: from django.urls import include, path\n    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))\n\"\"\"\nfrom django.contrib import admin\nfrom django.urls import path\n\nurlpatterns = [\n    path('admin/', admin.site.urls),\n]\nurlpatterns += [\n    path('catalog/', ' catalog.urls')\n]",
+					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+					"file_size": 809,
+					"file_write_time": 132503782216181737,
+					"settings":
+					{
+						"buffer_size": 809,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "from django.db import models\n\n# Create your models here.\n\nfrom django.urls import reverse  # To generate URLS by reversing URL patterns\n\n\nclass Genre(models.Model):\n    \"\"\"Model representing a book genre (e.g. Science Fiction, Non Fiction).\"\"\"\n    name = models.CharField(\n        max_length=200,\n        help_text=\"Enter a book genre (e.g. Science Fiction, French Poetry etc.)\"\n        )\n\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"\n        return self.name\n\n\nclass Language(models.Model):\n    \"\"\"Model representing a Language (e.g. English, French, Japanese, etc.)\"\"\"\n    name = models.CharField(max_length=200,\n                            help_text=\"Enter the book's natural language (e.g. English, French, Japanese etc.)\")\n\n    def __str__(self):\n        \"\"\"String for representing the Model object (in Admin site etc.)\"\"\"\n        return self.name\n\n\nclass Book(models.Model):\n    \"\"\"Model representing a book (but not a specific copy of a book).\"\"\"\n    title = models.CharField(max_length=200)\n    author = models.ForeignKey('Author', on_delete=models.SET_NULL, null=True)\n    # Foreign Key used because book can only have one author, but authors can have multiple books\n    # Author as a string rather than object because it hasn't been declared yet in file.\n    summary = models.TextField(max_length=1000, help_text=\"Enter a brief description of the book\")\n    isbn = models.CharField('ISBN', max_length=13,\n                            help_text='13 Character <a href=\"https://www.isbn-international.org/content/what-isbn'\n                                      '\">ISBN number</a>')\n    genre = models.ManyToManyField(Genre, help_text=\"Select a genre for this book\")\n    # ManyToManyField used because a genre can contain many books and a Book can cover many genres.\n    # Genre class has already been defined so we can specify the object above.\n    language = models.ForeignKey('Language', on_delete=models.SET_NULL, null=True)\n    \n    class Meta:\n        ordering = ['title', 'author']\n\n    def display_genre(self):\n        \"\"\"Creates a string for the Genre. This is required to display genre in Admin.\"\"\"\n        return ', '.join([genre.name for genre in self.genre.all()[:3]])\n\n    display_genre.short_description = 'Genre'\n\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular book instance.\"\"\"\n        return reverse('book-detail', args=[str(self.id)])\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return self.title\n\n\nimport uuid  # Required for unique book instances\nfrom datetime import date\n\nfrom django.contrib.auth.models import User  # Required to assign User as a borrower\n\n\nclass BookInstance(models.Model):\n    \"\"\"Model representing a specific copy of a book (i.e. that can be borrowed from the library).\"\"\"\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4,\n                          help_text=\"Unique ID for this particular book across whole library\")\n    book = models.ForeignKey('Book', on_delete=models.SET_NULL, null=True)\n    imprint = models.CharField(max_length=200)\n    due_back = models.DateField(null=True, blank=True)\n    borrower = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)\n\n    @property\n    def is_overdue(self):\n        if self.due_back and date.today() > self.due_back:\n            return True\n        return False\n\n    LOAN_STATUS = (\n        ('d', 'Maintenance'),\n        ('o', 'On loan'),\n        ('a', 'Available'),\n        ('r', 'Reserved'),\n    )\n\n    status = models.CharField(\n        max_length=1,\n        choices=LOAN_STATUS,\n        blank=True,\n        default='d',\n        help_text='Book availability')\n\n    class Meta:\n        ordering = ['due_back']\n        permissions = ((\"can_mark_returned\", \"Set book as returned\"),)\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return '{0} ({1})'.format(self.id, self.book.title)\n\n\nclass Author(models.Model):\n    \"\"\"Model representing an author.\"\"\"\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    date_of_birth = models.DateField(null=True, blank=True)\n    date_of_death = models.DateField('died', null=True, blank=True)\n\n    class Meta:\n        ordering = ['last_name', 'first_name']\n\n    def get_absolute_url(self):\n        \"\"\"Returns the url to access a particular author instance.\"\"\"\n        return reverse('author-detail', args=[str(self.id)])\n\n    def __str__(self):\n        \"\"\"String for representing the Model object.\"\"\"\n        return '{0}, {1}'.format(self.last_name, self.first_name)",
+					"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py",
+					"file_size": 4657,
+					"file_write_time": 132492194925833897,
+					"settings":
+					{
+						"buffer_size": 4657,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -184,12 +233,18 @@
 			},
 			"expanded_folders":
 			[
-				"/home/khanisa/Django01/debut_project/locallibrary",
-				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary",
-				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog"
 			],
 			"file_history":
 			[
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/__pycache__/urls.cpython-36.pyc",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/migrations/__init__.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/admin.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/urls.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/apps.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/views.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/tests.py",
+				"/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py"
 			],
 			"find":
 			{
@@ -230,8 +285,95 @@
 			"groups":
 			[
 				{
+					"selected": 2,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21,
+										21
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/locallibrary/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										806,
+										806
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 6.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/khanisa/Django01/debut_project/locallibrary/locallibrary/catalog/models.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4657,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -270,8 +412,12 @@
 			{
 				"height": 0.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 30.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,95,55,735,535,800,600",
+			"position": "0,1,0,0,0,0,0,0,0,800,600",
 			"project": "",
 			"replace":
 			{
@@ -313,12 +459,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 154.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 8,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],

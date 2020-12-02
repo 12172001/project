@@ -1000,13 +1000,13 @@ input[type="submit"], button {
         word-break: break-word;
     }
 }
-ﬁÁÑE      _¶èy_¶èyBM∞K_©«L   6    :http://127.0.0.1:8000/static/admin/css/responsive.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Sat, 07 Nov 2020 11:24:36 GMT
-Server: WSGIServer/0.2 CPython/3.6.9
+ó%ME      	_∆8_∆8BcG2_«K∆   6    :http://127.0.0.1:8000/static/admin/css/responsive.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
 Content-Type: text/css
 Content-Length: 18294
 Content-Disposition: inline; filename="responsive.css"
 Last-Modified: Tue, 13 Oct 2020 17:22:57 GMT
+Date: Fri, 27 Nov 2020 19:54:33 GMT
+Server: WSGIServer/0.2 CPython/3.6.9
  original-response-headers Date: Sat, 07 Nov 2020 11:24:36 GMT
 Server: WSGIServer/0.2 CPython/3.6.9
 Content-Type: text/css
